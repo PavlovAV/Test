@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("testMaster2");
+            Console.WriteLine("testMaster2Branch1");
         }
     }
 }
